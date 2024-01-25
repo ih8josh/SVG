@@ -1,33 +1,31 @@
-# SVG
+SVG
+Description
+The SVG Project is a command-line application designed for creating customizable SVG logos. Users are prompted to input text, text color, choose a geometric shape (circle, square, or triangle), and specify the shape's color.
 
-## Description
-The SVG Project is a command-line application designed for creating customizable SVG logos. Users are prompted to input text, text color, choose a geometric shape (circle, square, or triangle), and specify the shape's color. 
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-
-## Installation
+Table of Contents
+Installation
+Usage
+License
+Contributing
+Tests
+Questions
+Installation
 node index.js and answer questions
 
-## Usage
+Usage
 fill out questions
 
-## License
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+License
+License This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Contributing
-npm run 
+Contributing
+npm run
 
-## Tests
+Tests
 fork repository, clone repository, create new branch, make changes
 
-## Questions
+Questions
 For additional questions, you can reach me through:
-- GitHub: [ih8josh](https://github.com/ih8josh)
-- Email: ih8.josh903@gmail.com
+
+GitHub: ih8josh
+Email: ih8.josh903@gmail.com
